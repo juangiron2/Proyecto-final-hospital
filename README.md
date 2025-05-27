@@ -1,3 +1,4 @@
 # Proyecto-final-hospital
-#-Juan Esteban Giron//
-#-Eimer Felipe Ladino
+-Juan Esteban Giron
+
+-Eimer Felipe Ladino
